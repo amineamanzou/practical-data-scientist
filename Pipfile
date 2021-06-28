@@ -14,6 +14,7 @@ wordcloud = "*"
 seaborn = "*"
 scikit-learn = "*"
 folium = "*"
+plotly = "*"
 
 [dev-packages]
 
