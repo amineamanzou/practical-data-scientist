@@ -130,3 +130,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Final project images
+homework/final_project/cards_images/*
+homework/final_project/cards_arts/*
